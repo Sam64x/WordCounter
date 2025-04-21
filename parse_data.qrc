@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>parse_data/RandomText.txt</file>
+        <file>parse_data/RandomWords.txt</file>
+        <file>parse_data/Толстой Л. Война и мир. Том 1.txt</file>
+    </qresource>
+</RCC>
